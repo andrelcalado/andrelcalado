@@ -2,9 +2,9 @@
 
  
 
-:computer: Sou Desenvolvedor Front-End!
+:computer: Desenvolvedor Front-End!
 
-:house_with_garden: Moro em Fortaleza - Ceará.
+:house_with_garden: Fortaleza - Ceará.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrelcalado&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrelcalado&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
